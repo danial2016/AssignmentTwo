@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Your friends in the world</string>
+    <string name="Open">Your friends in the world</string>
+    <string name="Close">Your friends in the world</string>
+    <string name="newMarker">New marker(s) has been added</string>
+    <string name="nullMatrix">matrix equals null</string>
+    <string name="notBound">Not bound to service</string>
+    <string name="firstConnectToServer">First connect to server!</string>
+    <string name="youHaveUnregistered">You have unregistered</string>
+    <string name="youAreNotRegistered">You are not registered to any group</string>
+    <string name="error">ERROR</string>
+    <string name="languageChanged">Language changed to English</string>
+    <string name="myPosition">My position</string>
+    <string name="tryRefresh">Please refresh the page by pressing Register again in the menu</string>
+    <string name="stringIsNull">string of groups is null</string>
+    <string name="haBeenCreated"> has been created</string>
+    <string name="refreshPage">Refresh page to view updated list</string>
+    <string name="fillField">Fill in the field!</string>
+    <string name="nameOfGroup">Name of group: </string>
+    <string name="memberArrayNull">Member array is null</string>
+    <string name="youHaveRegisteredTo">You have registered to: </string>
+    <string name="latlon">lat, lon: </string>
+    <string name="connectToServer">Connect to server</string>
+    <string name="register">Register</string>
+    <string name="unregister">Unregister</string>
+    <string name="english">English</string>
+    <string name="swedish">Swedish</string>
+    <string name="connectedToServer">Connected to server</string>
+    <string name="failedConnection">Failed to connect to server</string>
+    <string name="theGroup">The group </string>
+    <string name="memberNbr">Member nbr. </string>
+    <string name="groupInfo">Group info</string>
+    <string name="listOf">List of available groups</string>
+    <string name="viewGroupInfo">View group info</string>
+    <string name="overkillExplanation">Create your own group. Type in the chosen name in the field below and then click "Create".</string>
+    <string name="groupName">Type in name of group</string>
+    <string name="create">Create</string>
+    <string name="note">Note!</string>
+
+
+
+
+</resources>

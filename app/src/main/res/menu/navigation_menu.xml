@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/itemConnect"
+        android:title= "@string/connectToServer"
+        android:icon="@drawable/ic_cast_connected_black_24dp"
+        >
+    </item>
+
+    <item
+        android:id="@+id/itemRegister"
+        android:title="@string/register"
+        android:icon="@drawable/ic_forum_black_24dp"
+        >
+    </item>
+
+    <item
+        android:id="@+id/itemUnregister"
+        android:title="@string/unregister"
+        android:icon="@drawable/ic_close_black_24dp"
+        >
+    </item>
+
+    <item
+        android:id="@+id/itemEnglish"
+        android:title="@string/english"
+        android:icon="@drawable/ic_compare_arrows_black_24dp"
+        >
+    </item>
+
+    <item
+        android:id="@+id/itemSwedish"
+        android:title="@string/swedish"
+        android:icon="@drawable/ic_compare_arrows_black_24dp"
+        >
+    </item>
+
+</menu>

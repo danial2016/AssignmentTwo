@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Your friends in the world</string>
+    <string name="Open">Your friends in the world</string>
+    <string name="Close">Your friends in the world</string>
+    <string name="newMarker">Nya markörer har lagts till</string>
+    <string name="nullMatrix">matris är null</string>
+    <string name="notBound">Ej bunden till service</string>
+    <string name="firstConnectToServer">Koppling till server saknas!</string>
+    <string name="youHaveUnregistered">Registreringen har upphört</string>
+    <string name="youAreNotRegistered">Du är ej registrerad till någon grupp</string>
+    <string name="error">FEL</string>
+    <string name="languageChanged">Språk ändrat till svenska</string>
+    <string name="myPosition">Min position</string>
+    <string name="tryRefresh">Klicka på "Registrera" i menyn för att uppdatera sidan</string>
+    <string name="stringIsNull">vektor-strängen är null</string>
+    <string name="haBeenCreated"> har skapats</string>
+    <string name="refreshPage">Uppdatera sidan för att se den nya listan</string>
+    <string name="fillField">Fyll i fältet!</string>
+    <string name="nameOfGroup">Gruppens namn: </string>
+    <string name="memberArrayNull">vektor av medlemmar är null</string>
+    <string name="youHaveRegisteredTo">Du har registrerat till: </string>
+    <string name="latlon">lat, lon: </string>
+    <string name="connectToServer">Koppla till server</string>
+    <string name="register">Registrera</string>
+    <string name="unregister">Avregistrera</string>
+    <string name="english">Engelska</string>
+    <string name="swedish">Svenska</string>
+    <string name="connectedToServer">Lyckad koppling till server</string>
+    <string name="failedConnection">Misslyckad koppling till server</string>
+    <string name="theGroup">Gruppen </string>
+    <string name="memberNbr">Medlem nr. </string>
+    <string name="groupInfo">Grupp info</string>
+    <string name="listOf">Lista över tillgängliga grupper</string>
+    <string name="viewGroupInfo">Se grupp info</string>
+    <string name="overkillExplanation">Skapa din egen grupp. Skriv in namnet du väljer i fältet nedan och klicka sedan på knappen "Skapa".</string>
+    <string name="groupName">Skriv in gruppens namn</string>
+    <string name="create">Skapa</string>
+    <string name="note">Notera!</string>
+
+
+
+
+
+
+
+
+
+
+</resources>
